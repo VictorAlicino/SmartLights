@@ -4,7 +4,7 @@
   "name": "SmartLightsMini",
   "content": "",
   "created_at": "2022-04-09 20:26:13",
-  "updated_at": "2022-04-21 18:59:26",
+  "updated_at": "2022-04-21 21:56:08",
   "stick": "",
   "documents": [
     {
@@ -40,9 +40,8 @@
         "5fd280c1a2f84fc987c85298e203bd3a": 2,
         "0b0b7e112f34403f834641c0db3b0b97": 1,
         "444eb6bc15874f9f977bfeffc6ddd706": 4,
-        "95e9605958d1416d995da454fbfb93b3": 1,
-        "0c20bf00709043ebb5cff20a703e33a2": 1,
-        "756a9ff71c164c99b96449fc7cdbc182": 1
+        "95e9605958d1416d995da454fbfb93b3": 2,
+        "0c20bf00709043ebb5cff20a703e33a2": 2
       },
       "BOM": [
         [
@@ -159,9 +158,9 @@
         ],
         [
           "210SMT-2*3P Gold-plated black",
-          1,
+          2,
           "HDR-SMD_6P-P2.54-V-M-R2-C3-S2.54-LS7.3",
-          "H1",
+          "H1,H3",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "Ckmtw",
@@ -174,9 +173,9 @@
         ],
         [
           "220S-2*3P H=8.5MM Ytype Gold-plated",
-          1,
+          2,
           "HDR-TH_6P-P2.54-V-F-R2-C3-S2.54",
-          "H2",
+          "H2,H4",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "Ckmtw",
@@ -185,21 +184,6 @@
             "BOM_JLCPCB Part Class": "Extended Part",
             "puuid": "9acaa2330fc646388ebfa5d3c036e32f",
             "uuid": "0c20bf00709043ebb5cff20a703e33a2"
-          }
-        ],
-        [
-          "77311-462K05LF",
-          1,
-          "HDR-TH_5P-P2.54-V-M",
-          "H3",
-          {
-            "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C180219",
-            "BOM_Manufacturer": "Amphenol ICC",
-            "BOM_Manufacturer Part": "77311-462K05LF",
-            "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "97560a62b45c46d5b6e85aaea1cd55a1",
-            "uuid": "756a9ff71c164c99b96449fc7cdbc182"
           }
         ],
         [
@@ -487,11 +471,11 @@
           }
         ]
       ],
-      "updateTime": 1650578366,
+      "updateTime": 1650588437,
       "createTime": 1649546789,
       "histories": [],
       "created_at": "2022-04-09 20:26:29",
-      "updated_at": "2022-04-21 18:59:26"
+      "updated_at": "2022-04-21 21:47:17"
     },
     {
       "uuid": "01c07d29e1fa323129e70f6fc39a6c03",
@@ -506,8 +490,6 @@
         "f8151fdc728a41ebbc304e11d39e5437": 6,
         "d8f8382978a7446f8e8f71c956b0d192": 1,
         "d3b8f061352b4f89b3aadbaa3c2e4825": 1,
-        "a760ff97479b48d99896158794271a1c": 1,
-        "16a236227d32407aa5d1179c6788703c": 1,
         "c2ac9d4f4e6b4eeca8c9ad92867ee780": 1,
         "a4613b89ccf34746ac088089e5eb544d": 4,
         "7913f343ceb14858ab6991f96a10c09d": 1,
@@ -522,19 +504,23 @@
         "805a83b7da524f8dbf75b52a12efbdcc": 1,
         "02ae667aca734971be8a5f58143dd564": 1,
         "2a95501440544c1bb3fdff056a517a60": 1,
-        "afb7360433864876990e591f0036107c": 2
+        "afb7360433864876990e591f0036107c": 2,
+        "82540f4ef60543c69781e75b429cf17b": 2,
+        "9acaa2330fc646388ebfa5d3c036e32f": 2,
+        "14b45397e6cc441c8e0b367833615fd4": 1,
+        "cbca8361ca4846ca9145c1c1ee08aa07": 4
       },
       "BOM": [],
-      "updateTime": 1650571997,
+      "updateTime": 1650588968,
       "createTime": 1650570668,
       "histories": [],
       "created_at": "2022-04-21 16:51:08",
-      "updated_at": "2022-04-21 17:13:17"
+      "updated_at": "2022-04-21 21:56:08"
     }
   ],
   "sort": [],
   "title": "SmartLightsMini",
   "foldername": "SmartLightsMini",
   "schfilename": "SmartLightsMini.json",
-  "schfilemtime": 1650578366499
+  "schfilemtime": 1650588437204
 }
