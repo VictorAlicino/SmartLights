@@ -1,5 +1,0 @@
-/Users/victoralicino/Documents/SmartOffice/Software/Lights/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/victoralicino/Documents/SmartOffice/Software/Lights/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/victoralicino/Documents/SmartOffice/Software/Lights/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
-/Users/victoralicino/Documents/SmartOffice/Software/Lights/cmake-build-debug/CMakeFiles/Debug.dir
-/Users/victoralicino/Documents/SmartOffice/Software/Lights/cmake-build-debug/CMakeFiles/Production.dir
